@@ -7,4 +7,4 @@ You Can Check Bot Guilds by guild command.
 add tokens in tokens.txt
 
 # Support
-- Auth#1337 or [Click Here](https://discord.gg/lgnop)
+- SkidGod#4444 or [Click Here](https://discord.gg/sputnik)
